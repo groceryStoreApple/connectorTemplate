@@ -1,21 +1,44 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Your awesome title
+title: Data and Ethics
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+description: 
+baseurl: "/connector" # the subpath of your site, e.g. /blog
+url: "dataconnect.berkeley.edu" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+#Course info
+
+course_title_long: INFO 88 Data and Ethics
+course_no: 41505
+instructor: Anna Lauren Hoffmann
+meeting_time: Tuesday 3:30 - 5:30 PM
+location: 210 South Hall
+units: 2
+bcourse_url: https://bcourses.berkeley.edu/courses/1412776
+course_page:
+
+#Annoucements:
+announcements:
+  - Final Paper are due!
+  - Office hours have been moved to Soda Hall for this week
+  - Midterm regrades are due 4/15/16
+  - "sign up: www.google.com"
+
+#Schedule
+schedule:
+  module 1:
+  	discription: Situating "Data" I: What is data?
+  	time: 1/20
+  	reading:
+  	  reading_1: 
+  	  	title: "Kitchin, R. (2014). Conceptualising Data."
+  	  	link: www.google.com
+  	  reading_2:
+  	  	title: "Seltzer, W., & Anderson, M. (2001). The dark side of numbers (481-513)"
+  	  	link: www.facebook.com
+  	assignments: Short Writing Assignment no.1
+
