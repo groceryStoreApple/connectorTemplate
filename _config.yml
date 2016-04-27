@@ -3,7 +3,7 @@ title: Data and Ethics
 email: your-email@domain.com
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "grocerystoreapple.github.io/connectorTemplate" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
