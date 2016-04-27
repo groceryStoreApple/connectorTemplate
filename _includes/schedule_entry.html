@@ -1,0 +1,18 @@
+
+    <tr>
+      <td class ="tg-dn63">{{ item[1].time }}</td>
+      <td class ="tg-dn63">{{ item[1].description}}</td>
+      <td class ="tg-dn63">
+		{% for rd in item[1].reading%}
+		<ul>
+			<li>{{rd[1].title}}
+			{% if rd[1].link %}
+			<a href="{{rd[1].link}}">Link</a>
+			{% endif %}
+			</li>
+		</ul>
+		{% endfor %}
+
+      </td>
+      <td class = "tg-dn63">{{ item[1].assignments }}</td>
+    </tr>
