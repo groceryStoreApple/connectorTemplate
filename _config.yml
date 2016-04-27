@@ -29,9 +29,10 @@ announcements:
   - "sign up: www.google.com"
 
 #Schedule
-schedule: 
-  module_1:
-    discription: "Situating Data I: What is data?"
+
+schedule:
+  module 1:
+    discription: "Situating 'Data' I: What is data?"
     time: 1/20
     reading:
       reading_1: 
