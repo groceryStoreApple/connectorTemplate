@@ -2,8 +2,8 @@
 title: Data and Ethics
 email: your-email@domain.com
 description: 
-baseurl: "connectorTemplate" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "/connectorTemplate" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
