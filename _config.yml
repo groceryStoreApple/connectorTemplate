@@ -31,14 +31,14 @@ announcements:
 #Schedule
 schedule:
   module 1:
-  	discription: Situating "Data" I: What is data?
-  	time: 1/20
-  	reading:
-  	  reading_1: 
-  	  	title: "Kitchin, R. (2014). Conceptualising Data."
-  	  	link: www.google.com
-  	  reading_2:
-  	  	title: "Seltzer, W., & Anderson, M. (2001). The dark side of numbers (481-513)"
-  	  	link: www.facebook.com
-  	assignments: Short Writing Assignment no.1
+    discription: Situating "Data" I: What is data?
+    time: 1/20
+    reading:
+      reading_1: 
+        title: "Kitchin, R. (2014). Conceptualising Data."
+        link: www.google.com
+      reading_2:
+        title: "Seltzer, W., & Anderson, M. (2001). The dark side of numbers (481-513)"
+        link: www.facebook.com
+    assignments: Short Writing Assignment no.1
 
