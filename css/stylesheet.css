@@ -58,8 +58,8 @@ a {
   text-align: center;
   background-color: #159957;
 /*  background-image: linear-gradient(120deg, #155799, #159957);*/ 
-  background-image: url(http://www.nationalregister.org/wp-content/uploads/2014/02/About_Ethics.jpg);
-  background-size: 1400px, 200px;
+  background-image: url(../img/ethics_connector_banner.png);
+  background-size: 1000px, 200px;
   background-position: center;
   background-repeat: no-repeat;
   }
